@@ -1,0 +1,8 @@
+nome = input ("Digite seu nome:") 
+print (f" Olá {nome}! Seja Bem-vinda!")
+idade = input ("Digita sua idade:")
+print (f" Você tem`{idade} anos.")
+cidade = input ("Nome da sua cidade:")
+print (f" Você mora em {cidade}.")
+profissão = input ("Qual a sua profissão:")
+print (f" Você é {profissão}")
